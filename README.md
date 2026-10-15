@@ -1,3 +1,5 @@
+![tests](https://github.com/grxntdxv/Chat-system/actions/workflows/tests.yml/badge.svg)
+
 # Chat System
 
 A small chat system written in Python. Async server, SQLite for storage,
